@@ -78,8 +78,6 @@ Use only English or Italian to help moderators manage the server effectively.
 
 If something isn’t listed but seems disruptive, avoid it. Keep the server a safe and welcoming place.
 
----
-
 ## Enforcement & Community Spirit
 
 **Our Goal:** This server is a safe space where everyone feels respected and included. We encourage positive and friendly behavior.
@@ -89,7 +87,5 @@ If something isn’t listed but seems disruptive, avoid it. Keep the server a sa
 **Questions?** Ask a moderator if you’re unsure about any rule.
 
 **Thank you for making our community great!** 🎉
-
----
 
 _Last updated: 2025-07-13 | Questions? Contact the moderation team._

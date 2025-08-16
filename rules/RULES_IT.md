@@ -78,8 +78,6 @@ Usa solo inglese o italiano per aiutare i moderatori a gestire il server.
 
 Se qualcosa non è elencato ma sembra sbagliato, non farlo. Mantieni il server sicuro e accogliente.
 
----
-
 ## Gestione e Spirito della Community
 
 **Il nostro obiettivo:** Questo server è uno spazio sicuro dove tutti si sentono rispettati e inclusi. Promuoviamo comportamenti positivi e amichevoli.
@@ -89,7 +87,5 @@ Se qualcosa non è elencato ma sembra sbagliato, non farlo. Mantieni il server s
 **Domande?** Chiedi a un moderatore se qualcosa non è chiaro.
 
 **Grazie per rendere la nostra community fantastica!** 🎉
-
----
 
 _Ultimo aggiornamento: 2025-07-13 | Domande? Contatta il team di moderazione._
